@@ -1,4 +1,8 @@
 _repo: Nils-Tufvesson-och-hans-moder-Bonderoman_49720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49720-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Geijerstam, Gustaf af
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49720#Nils-Tufvesson-och-hans-moder-Bonderoman
 gutenberg_issued: '2015-08-17'
 gutenberg_type: Text
 identifiers:
